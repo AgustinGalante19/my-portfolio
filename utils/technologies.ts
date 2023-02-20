@@ -1,0 +1,15 @@
+export default [
+  "html",
+  "css",
+  "javascript",
+  "typescript",
+  "tailwind",
+  "bootstrap",
+  "git",
+  "react",
+  "nextjs",
+  "deno",
+  "docker",
+  "sql",
+  "mongodb",
+];
