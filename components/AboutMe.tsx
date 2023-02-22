@@ -6,10 +6,12 @@ const AboutMe = () => {
       </h2>
       <div className="px-5">
         <p class="text-[#00171F]">
-          Me recibi de tecnico en computacion en la escuela secundaria y
-          actualmente estoy cursando una carrera de analista en sistemas y a
-          partir del 06/06/22 empece a trabajar para CVM como desarrollador,
-          donde segui desarrollandome como programador y profesional.
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo nisi
+          illo itaque debitis facilis sed saepe quas provident quaerat nobis
+          earum quisquam doloremque, incidunt mollitia, laborum et quasi, eaque
+          hic? Sapiente, tempora consequatur officiis pariatur aliquid animi ab
+          sunt magnam. Veniam, alias voluptatibus debitis voluptatem officiis
+          dolorem explicabo totam sit.
         </p>
       </div>
     </article>

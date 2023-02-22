@@ -7,7 +7,7 @@ const Navbar = () => {
     return (
       <a
         href={link}
-        class="font-semibold p-2 text-[#00171F] hover:bg-[#ACF39D] hover:bg-opacity-40 hover:rounded-md transition flex flex-col"
+        class="font-semibold p-2 text-[#fff] hover:text-[#F5B700] transition flex flex-col"
       >
         {title}
       </a>
@@ -15,7 +15,7 @@ const Navbar = () => {
   };
 
   return (
-    <nav class="flex bg-[#52EC76] p-2 ">
+    <nav class="flex bg-[#00171F] p-2 ">
       <div class="max-w-2xl mx-auto flex flex-row justify-between flex-wrap flex-1">
         <NavLink link="#" title="Inicio" />
         <NavLink link="#" title="Proyectos" />
